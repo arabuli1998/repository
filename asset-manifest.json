@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//arabuli1998.github.io/repository/static/css/main.abd64e84.css",
+    "main.js": "/http//arabuli1998.github.io/repository/static/js/main.39b7395e.js",
+    "index.html": "/http//arabuli1998.github.io/repository/index.html",
+    "main.abd64e84.css.map": "/http//arabuli1998.github.io/repository/static/css/main.abd64e84.css.map",
+    "main.39b7395e.js.map": "/http//arabuli1998.github.io/repository/static/js/main.39b7395e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.39b7395e.js"
+  ]
+}
